@@ -1,0 +1,23 @@
+@font-face {
+	font-family: 'SuzukiPRORegular';
+	src: url('../fonts/SuzukiPRORegular.eot');
+	src: local('☺'), url('../fonts/SuzukiPRORegular.woff') format('woff'), url('../fonts/SuzukiPRORegular.ttf') format('truetype'), url('../fonts/SuzukiPRORegular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'SuzukiPROBold';
+	src: url('../fonts/SuzukiPROBold.eot');
+	src: local('☺'), url('../fonts/SuzukiPROBold.woff') format('woff'), url('../fonts/SuzukiPROBold.ttf') format('truetype'), url('../fonts/SuzukiPROBold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'SuzukiPROHeadline';
+	src: url('../fonts/SuzukiPROHeadline.eot');
+	src: local('☺'), url('../fonts/SuzukiPROHeadline.woff') format('woff'), url('../fonts/SuzukiPROHeadline.ttf') format('truetype'), url('../fonts/SuzukiPROHeadline.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
